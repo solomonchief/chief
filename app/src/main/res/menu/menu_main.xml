@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dev.dev.myfriends.MainActivity">
+    <item
+        android:id="@+id/obe"
+        android:orderInCategory="100"
+        android:title="Courses"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mess"
+        android:orderInCategory="100"
+        android:title="Message"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/kk"
+        android:orderInCategory="100"
+        android:title="pics"
+        app:showAsAction="never" />
+</menu>
